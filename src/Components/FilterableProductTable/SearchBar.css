@@ -1,0 +1,21 @@
+.searchbar {
+  border: 1px blue solid;
+  padding: 20px;
+}
+
+.searchbar>input {
+  margin: 4px 0;
+}
+
+.searchbar>input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+  display: block;
+  padding: 2%;
+  border: 1px grey solid;
+  border-radius: 6px;
+}
+
+input[type="checkbox"] {
+  margin-right: .5em;
+}
