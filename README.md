@@ -5,7 +5,11 @@ This is a frontend app with hardcoded data.\
 It was created for practicing.\
 The tutorial can be found [here](https://reactjs.org/docs/thinking-in-react.html).\
 I used functional componants, and for the sake of simplicity, no state manager,
-but rather passing callbacks wherever I needed.
+but rather passing callbacks wherever I needed.\
+The result:\
+![searchable database](/public/searchable-database.png)\
+![filtered items](/public/filtered-items.png)\
+![stocked items](/public/stocked-items.png)\
 
 ## Available Scripts
 
